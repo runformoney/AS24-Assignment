@@ -1,0 +1,9 @@
+pandas
+numpy==1.19.3
+scikit-learn
+xgboost
+matplotlib
+seaborn
+tensorflow
+jupyter
+imbalanced-learn
