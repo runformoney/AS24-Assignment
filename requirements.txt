@@ -7,3 +7,4 @@ seaborn
 tensorflow
 jupyter
 imbalanced-learn
+statsmodels
